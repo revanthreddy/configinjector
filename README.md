@@ -6,5 +6,4 @@ NODE_ENV=production node app.js
 
 for dev
 NODE_ENV=development node app.js
-or just
-node app.js
+or just node app.js
